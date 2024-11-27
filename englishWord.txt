@@ -6,6 +6,7 @@ THINGS:
 - Sky
 - Cars
 - Motorcycle
+  - Yamaha
 
 COLORS:
 - White
