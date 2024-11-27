@@ -14,3 +14,7 @@ COLORS:
 - Green
 - Blue
 - Yellow
+
+ANIMALS:
+- Cat
+- Dog
