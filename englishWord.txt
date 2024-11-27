@@ -5,6 +5,7 @@ THINGS:
 - Airplane
 - Sky
 - Cars
+- Motorcycle
 
 COLORS:
 - White
