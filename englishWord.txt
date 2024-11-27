@@ -1,0 +1,14 @@
+*** These are words I know in English! ***
+
+THINGS:
+- Ball
+- Airplane
+- Sky
+- Cars
+
+COLORS:
+- White
+- Black
+- Red
+- Green
+ -Blue
